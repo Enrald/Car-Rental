@@ -1,0 +1,88 @@
+/* Reset and basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f4f4f9;
+    line-height: 1.6;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  /* Header styles */
+  header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  header h1 {
+    color: #333;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  /* Content styles */
+  .about-content p {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .about-content h2 {
+    font-size: 1.5rem;
+    color: #444;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Contact info styles */
+  .contact-info {
+    list-style-type: none;
+    margin-top: 10px;
+    padding-left: 0;
+  }
+  
+  .contact-info li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #666;
+    display: flex;
+    align-items: center;
+  }
+  
+  .contact-info li::before {
+    content: '•';
+    color: #3498db;
+    margin-right: 8px;
+  }
+  
+  .contact-info li svg {
+    margin-right: 10px;
+  }
+  
+  @media (max-width: 600px) {
+    .container {
+      padding: 10px;
+    }
+  
+    header h1 {
+      font-size: 2rem;
+    }
+  
+    .about-content h2 {
+      font-size: 1.2rem;
+    }
+  }
+  

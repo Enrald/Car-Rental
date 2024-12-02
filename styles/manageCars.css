@@ -1,0 +1,46 @@
+/* Container to hold the carousels in a horizontal row */
+.carousel-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the space between carousels */
+    padding: 20px 0;
+    overflow-x: auto; /* Enables horizontal scrolling if needed */
+  }
+  
+  /* Each carousel item */
+  .custom-carousel {
+    flex: 0 0 auto; /* Prevent carousels from shrinking or growing */
+    width: 30%; /* Adjust the width of each carousel to fit in the container */
+  }
+  
+  /* Ensure the images inside the carousel fill the width of their container */
+  .custom-carousel img {
+    width: 100%;
+    height: auto;
+  }
+  #Reserve {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    font-size: 16px; /* Font size */
+    padding: 12px 24px; /* Padding for a balanced look */
+    border: none; /* No border */
+    border-radius: 8px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+    transition: all 0.3s ease; /* Smooth transitions for hover effects */
+    font-weight: bold;
+    font-size: large;
+}
+
+#Reserve:hover {
+    background-color: #45a049; /* Darker green on hover */
+    box-shadow: 0px 6px 8px rgba(0, 0, 0, 0.3); /* Enhance shadow on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+#Reserve:active {
+    background-color: #3e8e41; /* Even darker green when clicked */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Reduce shadow on click */
+    transform: scale(0.98); /* Slightly shrink on click */
+}
+  

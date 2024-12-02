@@ -1,0 +1,12 @@
+.typeOfCar {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px; /* Hapësirë poshtë titullit */
+    color: #343a40; /* Ngjyrë gri e errët (mund të ndryshohet) */
+  }
+  .card-img-top {
+    height: 200px; /* Lartësia e përbashkët për të gjitha imazhet */
+    object-fit: cover; /* Prerje që ruan proporcionet dhe mbulon të gjithë hapësirën */
+    width: 100%; /* Siguron që imazhi të mbulojë të gjithë gjerësinë e kartës */
+  }
