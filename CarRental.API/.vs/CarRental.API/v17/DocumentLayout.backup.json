@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CTS\\Desktop\\CarRental.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\data\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:data\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\data\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:data\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\dtos\\resrvationdtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:dtos\\resrvationdtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\dtos\\resrvationdtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:dtos\\resrvationdtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\dtos\\cardtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:dtos\\cardtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\dtos\\cardtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:dtos\\cardtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\dtos\\resrvationdtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:dtos\\resrvationdtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|c:\\users\\cts\\desktop\\carrental.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E42D74E4-F563-44E0-8EBE-DDA232BDC64F}|CarRental.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CTS\\Desktop\\CarRental.API\\obj\\Debug\\net8.0\\ApiEndpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\ApiEndpoints.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:53:48.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\UpdateReservationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResrvationDtos\\UpdateReservationDto.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\UpdateReservationDto.cs",
+              "RelativeToolTip": "DTOs\\ResrvationDtos\\UpdateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:21:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\CreateReservationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResrvationDtos\\CreateReservationDto.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\CreateReservationDto.cs",
+              "RelativeToolTip": "DTOs\\ResrvationDtos\\CreateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:21:02.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\CarService.cs",
+              "RelativeDocumentMoniker": "Data\\CarService.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\CarService.cs",
+              "RelativeToolTip": "Data\\CarService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:58.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Controllers\\CarsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA9wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:23:31.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\CarDtos\\CreateCarDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CarDtos\\CreateCarDto.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\CarDtos\\CreateCarDto.cs",
+              "RelativeToolTip": "DTOs\\CarDtos\\CreateCarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:20.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCarDto.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\CarDtos\\UpdateCarDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CarDtos\\UpdateCarDto.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\CarDtos\\UpdateCarDto.cs",
+              "RelativeToolTip": "DTOs\\CarDtos\\UpdateCarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T23:25:21.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Data\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Data\\ReservationService.cs",
+              "RelativeToolTip": "Data\\ReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:53:39.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ResrvationDtos\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\DTOs\\ResrvationDtos\\ReservationDto.cs",
+              "RelativeToolTip": "DTOs\\ResrvationDtos\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:41:52.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Models\\Reservation.cs",
+              "RelativeToolTip": "Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:28:56.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T15:55:23.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T22:42:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:36:32.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiEndpoints.json",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\ApiEndpoints.json",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-26T22:35:41.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CTS\\Desktop\\CarRental.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:23:07.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
